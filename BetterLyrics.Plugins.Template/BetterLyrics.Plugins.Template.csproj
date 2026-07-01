@@ -5,6 +5,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<EnableDynamicLoading>true</EnableDynamicLoading>
+		<RepositoryUrl>https://github.com/BetterLyrics/BetterLyrics.Plugins.Template</RepositoryUrl>
 		<Version>1.0.0</Version>
 		<Authors>TODO: jayfunc</Authors>
 		<Company>$(Authors)</Company>
